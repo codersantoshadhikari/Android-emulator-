@@ -7,4 +7,4 @@ the need for physical devices. This emulator accurately replicates various devic
 screen sizes, and operating system versions, aiding in the development process.
 Its flexibility and ease of use contribute to efficient app testing and optimization,
 making it an essential component of modern app development workflows.
-![image](https://github.com/Santoshadhikary/Android-emulator-/assets/122032759/f3f58469-0248-4629-9d92-e181a106e8b9)
+![image](https://github.com/Santoshadhikary/Android-emulator-/assets/122032759/99cbee4c-eca7-4215-887f-a7dd8140999e)
